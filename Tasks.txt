@@ -1,3 +1,5 @@
+consider new design for uls' links
+
 - turn this site into FMWK but compare font sizes; add collapsible to pedo invent
 - collapsible: sim, estivemos no CAPS
 - collapsible: nossa vivência
